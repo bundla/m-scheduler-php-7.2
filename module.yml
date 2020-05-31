@@ -1,0 +1,8 @@
+version: "1"
+service:
+  scheduler:
+    image: tgaru/bundla-php:7.2
+    volumes:
+      - ./src:/var/www/html
+    environment:
+      CONTAINER_ROLE: scheduler
