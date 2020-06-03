@@ -4,7 +4,7 @@ Docker Compose module for the project [Bundla](https://github.com/tgaru/bundla).
 
 ## Specifications
 
-**Key name:** `bundla/m-scheduler-php-7.2`
+**Module-key:** `bundla/m-scheduler-php-7.2`
 
 **Image based:** [tgaru/bundla-php:7.2](https://hub.docker.com/r/tgaru/bundla-php)
 
